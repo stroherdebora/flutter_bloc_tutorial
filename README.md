@@ -3,4 +3,5 @@
 Revisão de conceitos utilizando packages bloc e flutter_bloc para aplicação do BloC no Flutter
 
 
-![image](https://github.com/stroherdebora/flutter_bloc_tutorial/assets/52551895/bff36013-089b-48e9-869a-024b2105fedd)
+![image](https://github.com/stroherdebora/flutter_bloc_tutorial/assets/52551895/4e85233d-07eb-4b1a-8a31-a4bac6d4305d)
+
